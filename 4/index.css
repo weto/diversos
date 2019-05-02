@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.perfil {
+    width: 200px;
+    
+    flex-wrap: wrap;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.linha {
+    width: 100%;
+}
+
+.nome {
+    font-weight: bold;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.avatar {
+    border-radius: 102px;
+}
